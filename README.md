@@ -22,16 +22,16 @@ Welcome to **50 Web Projects – Frontend Mastery**, a collection of 50 mini pro
 
 ## 📁 Project Highlights (Few Examples)
 
- Project Name                 Key Concepts Covered                          
+ Project Name            --     Key Concepts Covered                          
 
- 3D Boxes Background          CSS 3D Transforms & Animation Loops           
- Animated Countdown           Date Manipulation & Dynamic Updates           
- Auto Text Effect             JavaScript Intervals & DOM Typing Effect      
- Blurry Loading               CSS Blur Effects & Load States                
- Content Placeholder          Skeleton Screens & Dynamic Data Display       
- Button Ripple Effect         Mouse Events & CSS Animations                 
- Background Slider            Dynamic Background Changes with JS            
- Bad Jokes Generator          API Fetching & Asynchronous Programming       
+ 3D Boxes Background       --   CSS 3D Transforms & Animation Loops           
+ Animated Countdown        --   Date Manipulation & Dynamic Updates           
+ Auto Text Effect         --    JavaScript Intervals & DOM Typing Effect      
+ Blurry Loading           --    CSS Blur Effects & Load States                
+ Content Placeholder      --    Skeleton Screens & Dynamic Data Display       
+ Button Ripple Effect     --    Mouse Events & CSS Animations                 
+ Background Slider       --     Dynamic Background Changes with JS            
+ Bad Jokes Generator      --    API Fetching & Asynchronous Programming       
 
 
 ## 🏆 Why This Project Matters
